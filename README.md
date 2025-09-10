@@ -31,9 +31,6 @@
 
 
 
-![Snake animation]
-(https://github.com/AOSEI1001/AOSEI1001/blob/output/github-contribution-grid-snake.svg)
-
 </p>
 
 <!--
