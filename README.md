@@ -8,6 +8,7 @@
 * 👩 Pronouns: she/her
 * 🔭 I’m currently working on roam :)
 * 🌱 I’m currently learning Flask and JS
+* 🌍 Interests: Creative intersections of film & technology and digital storytelling
 
 </P>
 
