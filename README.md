@@ -28,7 +28,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="jetbrains" width="45" height="45"/>
 
-  
+
+
+![Snake animation]
+(https://github.com/AOSEI1001/AOSEI1001/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
