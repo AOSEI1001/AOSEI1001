@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Abisa's%20Github&animation=fadeIn" alt="header" width="800" height="800"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Abisa's%20Github&animation=fadeIn" alt="header" width="900" height="900"/>
 
 
-
-### Hi there 👋
 * 👂 My name is Abisa
 * 👩 Pronouns: she/her
 * 🔭 I’m currently working on roam :)
