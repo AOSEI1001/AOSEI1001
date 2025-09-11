@@ -10,8 +10,13 @@
 * 🌱 I’m currently learning Flask and JS
 * 🌍 Interests: Creative intersections of film & technology and digital storytelling
 
-</P>
+</p>
 
+<p align="center">
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AOSEI1001&theme=rose" alt="GitHub Streak" /></a>
+
+</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -30,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="jetbrains" width="45" height="45"/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AOSEI1001)](https://git.io/streak-stats)
 
 </p>
 
