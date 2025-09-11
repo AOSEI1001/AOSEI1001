@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="jetbrains" width="45" height="45"/>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AOSEI1001)](https://git.io/streak-stats)
 
 </p>
 
