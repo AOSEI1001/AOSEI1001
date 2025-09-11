@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Abisa's%20Github&animation=fadeIn" alt="header" width="1050" height="900"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Abisa Osei-Amankwah's%20Github&animation=fadeIn" alt="header" width="1050" height="900"/>
 
 
 * 👂 My name is Abisa
