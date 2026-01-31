@@ -37,6 +37,13 @@
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azuredevops/azuredevops-original.svg" alt="azuredevOps" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/heroku/heroku-original.svg" alt="heroku" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactbootstrap" width="45" height="45"/>
 
 
 
