@@ -6,8 +6,8 @@
 
 * 👂 My name is Abisa
 * 👩 Pronouns: she/her
-* 🔭 I’m currently working on roam :)
-* 🌱 I’m currently learning Flask and JS
+* 🔭 I’m currently working on Colby Tutor Match :)
+* 🌱 I’m currently learning GCP and Docker
 * 🌍 Interests: Creative intersections of film & technology and digital storytelling
 
 </p>
