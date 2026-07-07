@@ -42,6 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactbootstrap" width="45" height="45"/>
 
